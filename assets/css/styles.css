@@ -1,0 +1,32 @@
+header {
+    text-align: center;
+}
+
+div {
+    font-size: 20px;
+}
+
+div p{
+    display: inline;
+}
+
+div .time-display {
+    display: inline;
+    text-align: right;
+    padding-left: 1800px
+}
+
+section {
+    text-align: center;
+
+}
+
+section h1 {
+    text-align: center;
+    font-size: 1.8vw
+}
+
+section p {
+    text-align: center;
+    font-size: 1.2vw
+}
